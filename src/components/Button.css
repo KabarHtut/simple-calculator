@@ -1,0 +1,29 @@
+.btn-container {
+    width: 400px;
+}
+
+.btn-group {
+    display: flex;
+}
+
+.btn {
+    width: 100px;
+    height: 40px;
+    border: none;
+    transition: .5s;
+}
+
+.btn-long {
+    width: 300px;
+    background-color: orange;
+}
+
+.btn-caculator {
+    background-color: black;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #646262;
+    color: white;
+}
